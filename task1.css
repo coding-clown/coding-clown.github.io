@@ -14,7 +14,7 @@ content {
     color: black;
     font-size: 25px;
     align-items: center;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower';
 }
 
 content > * {

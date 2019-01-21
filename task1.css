@@ -2,7 +2,7 @@ body {
     background-color: #eee;
     margin: 0;
     padding: 0px;
-    text-align:justify;
+    text-align:center;
 }
 
 content {
@@ -11,7 +11,7 @@ content {
     grid-auto-rows: minmax(9px, auto);
     grid-gap: 10px;
     margin: 0px auto;
-    text-align: justify;
+    text-align:center;
     color: black;
     font-size: 25px;
     align-items: center;

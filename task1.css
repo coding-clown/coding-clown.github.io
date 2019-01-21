@@ -2,6 +2,7 @@ body {
     background-color: #eee;
     margin: 0;
     padding: 0px;
+    text-align:justify;
 }
 
 content {
@@ -15,7 +16,8 @@ content {
     font-size: 25px;
     align-items: center;
 
-    font-family: 'Indie Flower', ;
+    font-family: 'Indie Flower';
+
 
 
 
